@@ -1,1 +1,0 @@
-pyinstaller -w --clean --noupx --onefile --icon=icon.ico --name=Pic2Bot main.py
